@@ -47,8 +47,4 @@ O executavel sera gerado na pasta `dist/`.
 Isso ocorre porque a busca recarrega a lista. Para corrigir, implemente um mecanismo para armazenar a selecao antes de atualizar a interface.
 
 ## Autor
-Desenvolvido por [Seu Nome].
-
-## Licenca
-Este projeto esta licenciado sob a [MIT License](LICENSE).
-
+Desenvolvido por Rafael Amorim Faleiros.
